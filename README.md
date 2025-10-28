@@ -2,7 +2,7 @@
 
 Live site:
 
-- [ScrollySpace](https://scrolly-space.netlify.app/){:target="_blank"}
+- <a href="https://scrolly-space.netlify.app/" target="_blank">ScrollySpace</a>
 
 Resources:
 
