@@ -2,11 +2,11 @@
 
 Live site:
 
-- [ScrollySpace](https://scrolly-space.netlify.app/)
+- [ScrollySpace](https://scrolly-space.netlify.app/){:target="_blank"}
 
 Resources:
 
-- [React Router Dom](https://reactrouter.com/en/main)
+- [React Router](https://reactrouter.com/en/main)
 - [Tailwindcss Buttons](https://devdojo.com/tailwindcss/buttons)
 - [Mamba UI - Components](https://mambaui.com/components)
 - [Animated Gradient Text](https://www.andrealves.dev/blog/how-to-make-an-animated-gradient-text-with-tailwindcss/)
