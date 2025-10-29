@@ -6,7 +6,7 @@ Live site:
 ---
 
 ## 📝 Overview
-ScrollySpace is a React + TailwindCSS project focused on performance and usability, featuring theme toggle, bookmarking, and API-based dynamic data.
+ScrollySpace is a React-powered web app with a smooth UI, dark/light mode, bookmarking, and live content fetched from external APIs.
 ---
 
 ## ⚡ Features
