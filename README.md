@@ -1,4 +1,4 @@
-# 🚀 ScrollySpace
+#  ScrollySpace
 
 Live site:  
 - <a href="https://scrolly-space.netlify.app/" target="_blank">ScrollySpace</a>
